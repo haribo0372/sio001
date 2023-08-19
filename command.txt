@@ -1,0 +1,2 @@
+cargo build --example game --target wasm32-unknown-unknown
+devserver
